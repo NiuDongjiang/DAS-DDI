@@ -1,2 +1,0 @@
-# DAS-DDI
-DAS-DDI
